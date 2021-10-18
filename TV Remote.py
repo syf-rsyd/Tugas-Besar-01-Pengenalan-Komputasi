@@ -16,7 +16,6 @@
 
 print("TV Remote Controller Program")
 print("")
-print("")
 print("""
 
 1. Turn On TV
@@ -134,5 +133,3 @@ while True:
         print("")
     else:
         print("Invalid Operation!")
-    
-        
