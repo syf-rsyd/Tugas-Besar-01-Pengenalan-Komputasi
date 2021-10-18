@@ -5,7 +5,7 @@
 # 1. Syifa Kamiliya R (16321013)
 # 2. Azkiya Tsabitul A (16321017)
 # 3. Keisha Prillia Q (16321021)
-# 4. Bunga Azzahra (16321...)
+# 4. Bunga Azzahra (16321245)
 
 # KAMUS
 # Stat : str
