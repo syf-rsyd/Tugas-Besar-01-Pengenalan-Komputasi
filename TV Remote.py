@@ -2,8 +2,8 @@
 # Program TV Remote sederhana yang dapat dilakukan 7 fungsi
 # KU1102_Pengenalan Komputasi K06 FITB
 # Kelompok 4
-# 1. Azkiya T (16321013)
-# 2. Syifa Kamiliya (16321017)
+# 1. Syifa Kamiliya R (16321013)
+# 2. Azkiya Tsabitul A (16321017)
 # 3. Keisha Prillia Q (16321021)
 # 4. Bunga Azzahra (16321...)
 
